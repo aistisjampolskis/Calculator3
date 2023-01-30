@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: Calculator
+Version: 1.0
+Summary: Console application that calculates
+Home-page: https://example.com/project_name
+Author: Aistis Jampolskis
+Author-email: aistis.jampolskis@gmail.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3.9

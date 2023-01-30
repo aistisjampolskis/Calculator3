@@ -1,0 +1,12 @@
+Calculator.py
+MANIFEST.in
+README.md
+action.py
+setup.cfg
+setup.py
+test.py
+Calculator.egg-info/PKG-INFO
+Calculator.egg-info/SOURCES.txt
+Calculator.egg-info/dependency_links.txt
+Calculator.egg-info/requires.txt
+Calculator.egg-info/top_level.txt
